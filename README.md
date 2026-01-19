@@ -220,6 +220,7 @@ pip install scikit-learn pandas numpy matplotlib seaborn
 ##  Project Structure
 
 ```
+
 disaster-tweet-classification/
 │
 ├── README.md                          # Project documentation
@@ -245,7 +246,6 @@ disaster-tweet-classification/
     ├── model.py                       # Model architecture
     └── utils.py                       # Helper functions
 ```
-
 
 
 ---
