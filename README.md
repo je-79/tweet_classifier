@@ -4,18 +4,18 @@ A deep learning NLP project that distinguishes between real disaster tweets and 
 ---
 ##  Table of Contents
 
-- [Overview]
-- [Problem Statement]
-- [Dataset]
-- [Methodology]
-- [Results]
-- [Installation]
-- [Usage]
-- [Project Structure]
-- [Model Performance]
-- [Future Improvements]
-- [Contributing] 
-- [License]
+- Overview
+- Problem Statement
+- Dataset
+- Methodology
+- Results
+- Installation
+- Usage
+- Project Structure
+- Model Performance
+- Future Improvements
+- Contributing
+
 
 ---
 ##  Overview
@@ -188,10 +188,10 @@ weighted avg       0.84      0.84      0.84      1501
 
 ### Model Strengths
 
-✅ Correctly identifies "ABLAZE" in productivity context  
-✅ Understands multi-word phrases and context  
-✅ Robust to noise (URLs, hashtags, mentions)  
-✅ High confidence on clear-cut cases  
+- Correctly identifies "ABLAZE" in productivity context  
+-  Understands multi-word phrases and context  
+- Robust to noise (URLs, hashtags, mentions)  
+- High confidence on clear-cut cases  
 
 ---
 
@@ -220,6 +220,7 @@ pip install scikit-learn pandas numpy matplotlib seaborn
 ##  Project Structure
 
 ```
+
 disaster-tweet-classification/
 │
 ├── README.md                          # Project documentation
@@ -244,6 +245,7 @@ disaster-tweet-classification/
     ├── preprocessing.py               # Data preprocessing utilities
     ├── model.py                       # Model architecture
     └── utils.py                       # Helper functions
+
 ```
 
 ---
