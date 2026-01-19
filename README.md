@@ -217,10 +217,10 @@ pip install -r requirements.txt
 pip install torch transformers datasets accelerate
 pip install scikit-learn pandas numpy matplotlib seaborn
 ```
+
 ##  Project Structure
+
 ```
-
-
 disaster-tweet-classification/
 │
 ├── README.md                          # Project documentation
@@ -244,12 +244,8 @@ disaster-tweet-classification/
 └── src/
     ├── preprocessing.py               # Data preprocessing utilities
     ├── model.py                       # Model architecture
-    └── utils.py                       # Helper functions   
-
-
-
-    
-```
+    └── utils.py                       # Helper functions      
+    ```
 
 
 ---
