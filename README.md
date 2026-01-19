@@ -243,9 +243,7 @@ disaster-tweet-classification/
 └── src/
     ├── preprocessing.py               # Data preprocessing utilities
     ├── model.py                       # Model architecture
-    └── utils.py                       # Helper functions
-
-    
+    └── utils.py                       # Helper functions   
 ```
 
 
