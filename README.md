@@ -209,7 +209,7 @@ weighted avg       0.84      0.84      0.84      1501
 - seaborn
 
 ### Setup
-```bash
+``` 
 # Install dependencies
 pip install -r requirements.txt
 
@@ -217,7 +217,7 @@ pip install -r requirements.txt
 pip install torch transformers datasets accelerate
 pip install scikit-learn pandas numpy matplotlib seaborn
 ```
-
+```
 ```
 ##  Project Structure
 
