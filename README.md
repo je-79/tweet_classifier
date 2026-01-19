@@ -209,7 +209,7 @@ weighted avg       0.84      0.84      0.84      1501
 - seaborn
 
 ### Setup
-
+```bash
 # Install dependencies
 pip install -r requirements.txt
 
