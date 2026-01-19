@@ -216,8 +216,8 @@ pip install -r requirements.txt
 # Or install individually
 pip install torch transformers datasets accelerate
 pip install scikit-learn pandas numpy matplotlib seaborn
-```
 
+```
 ##  Project Structure
 
 ```
